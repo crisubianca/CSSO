@@ -1,0 +1,15 @@
+GET:http://cssohw.herokuapp.com/dohomework/1963
+POST:http://cssohw.herokuapp.com/dohomework/520
+GET:http://cssohw.herokuapp.com/dohomework/111
+GET:http://cssohw.herokuapp.com/dohomework/972
+POST:http://cssohw.herokuapp.com/dohomework/364
+GET:http://cssohw.herokuapp.com/dohomework/536
+GET:http://cssohw.herokuapp.com/dohomework/1795
+GET:http://cssohw.herokuapp.com/dohomework/1117
+GET:http://cssohw.herokuapp.com/dohomework/667
+GET:http://cssohw.herokuapp.com/dohomework/456
+GET:http://cssohw.herokuapp.com/dohomework/1492
+POST:http://cssohw.herokuapp.com/dohomework/1056
+POST:http://cssohw.herokuapp.com/dohomework/868
+GET:http://cssohw.herokuapp.com/dohomework/770
+POST:http://cssohw.herokuapp.com/dohomework/1185
