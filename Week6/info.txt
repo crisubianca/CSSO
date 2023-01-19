@@ -1,0 +1,69 @@
+Logical processor found 1
+---Relationship:0
+---ProcessorMask:3
+Logical processor found 2
+---Relationship:2
+---ProcessorMask:3
+Logical processor found 3
+---Relationship:2
+---ProcessorMask:3
+Logical processor found 4
+---Relationship:2
+---ProcessorMask:3
+Logical processor found 5
+---Relationship:0
+---ProcessorMask:12
+Logical processor found 6
+---Relationship:2
+---ProcessorMask:12
+Logical processor found 7
+---Relationship:2
+---ProcessorMask:12
+Logical processor found 8
+---Relationship:2
+---ProcessorMask:12
+Logical processor found 9
+---Relationship:0
+---ProcessorMask:48
+Logical processor found 10
+---Relationship:2
+---ProcessorMask:48
+Logical processor found 11
+---Relationship:2
+---ProcessorMask:48
+Logical processor found 12
+---Relationship:2
+---ProcessorMask:48
+Logical processor found 13
+---Relationship:3
+---ProcessorMask:255
+Logical processor found 14
+---Relationship:0
+---ProcessorMask:192
+Logical processor found 15
+---Relationship:2
+---ProcessorMask:192
+Logical processor found 16
+---Relationship:2
+---ProcessorMask:192
+Logical processor found 17
+---Relationship:2
+---ProcessorMask:192
+Logical processor found 18
+---Relationship:2
+---ProcessorMask:255
+Logical processor found 19
+---Relationship:1
+---ProcessorMask:255
+
+Highest node number: 0
+NumaNodeProcessorMask: 255
+Number of CPU cores: 8
+CPU core ID: 256
+CPU core ID: 257
+CPU core ID: 258
+CPU core ID: 259
+CPU core ID: 260
+CPU core ID: 261
+CPU core ID: 262
+CPU core ID: 263
